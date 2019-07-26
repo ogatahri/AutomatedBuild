@@ -1,4 +1,4 @@
-M centos:7
+FROM centos:7
 
 # rubyとrailsのバージョンを指定
 ENV ruby_ver="2.4.4"
